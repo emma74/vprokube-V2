@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: kubevpro.emmadev.live
+  - host: vprofile.emmadev.live
     http:
       paths:
       - path: /
